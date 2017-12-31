@@ -10,4 +10,4 @@ To compile and produce a binary, run
 $ ghc blackjack.hs -o blackjack
 
 Then, run using
-$./blackjack
+$ ./blackjack
